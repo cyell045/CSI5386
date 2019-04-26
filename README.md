@@ -5,12 +5,14 @@ Chelsea Battell – 7899250
 
 Céline Yelle – 7221240
 
-# Instructions to run jMusixMatch
+## Instructions to run jMusixMatch
+This part of the code will be used to collect and tag our dataset.
 - Open the jMusixMatch folder in a Java IDE (like Eclipse or IntelliJ)
 - Build and run the Run.java file located in the jMusixMatch/src/main/java folder
 - The program will output an output.txt file to the jMusixMatch/src/main/resources folder (We have provided our resulting output.txt file in this folder)
 
-# Instructions to run NLP_projectModel.py (copied from readme.md):
+## Instructions to run NLP_projectModel.py (copied from readme.md):
+This part of the code will be used to create, train and test the sequential model. 
  - To run the code, you must be in the virtual environment where the necessary libraries are installed (see the imports at the top of the NLP_projectModel.py code file)
     > source activate <virtual env name> (e.g. NLPproject)
  - Navigate to directory containing this file
