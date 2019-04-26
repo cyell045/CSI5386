@@ -1,6 +1,9 @@
 # CSI5386
 Natural Language Processing - Final Project
 
+Chelsea Battell – 7899250
+Céline Yelle – 7221240
+
 # Instructions to run jMusixMatch
 - Open the jMusixMatch folder in a Java IDE (like Eclipse or IntelliJ)
 - Build and run the Run.java file located in the jMusixMatch/src/main/java folder
