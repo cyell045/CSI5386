@@ -2,6 +2,7 @@
 Natural Language Processing - Final Project
 
 Chelsea Battell – 7899250
+
 Céline Yelle – 7221240
 
 # Instructions to run jMusixMatch
